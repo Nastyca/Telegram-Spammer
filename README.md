@@ -5,4 +5,4 @@ A simple Telegram Spammer ! 💫
 
 # Read config.json
 
-![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png)
+![Telegram](https://logo-marque.com/wp-content/uploads/2021/03/Telegram-Logo.png)
